@@ -1,11 +1,11 @@
-ID,Meaning,Rating
-600,light snow,Outdoor
-601,snow,Indoor
-602,heavy snow,Indoor
-611,sleet,Indoor
-612,shower sleet,Indoor
-615,light rain and snow,Indoor
-616,rain and snow,Outdoor
-620,light shower snow,Indoor
-621,shower snow,Indoor
-622,heavy shower snow,Indoor
+ID,Description,Rating
+600,light snow,outdoor
+601,snow,indoor
+602,heavy snow,indoor
+611,sleet,indoor
+612,shower sleet,indoor
+615,light rain and snow,indoor
+616,rain and snow,outdoor
+620,light shower snow,indoor
+621,shower snow,indoor
+622,heavy shower snow,indoor
